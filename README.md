@@ -1,1 +1,1 @@
-# Hotel-Management-system-in-C-
+# Hotel-Management-system-in-C++
